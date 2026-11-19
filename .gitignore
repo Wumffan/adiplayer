@@ -1,0 +1,11 @@
+node_modules/
+android-twa/
+.cookies.json
+*.log
+.DS_Store
+Thumbs.db
+bubblewrap-config-local.json
+FoliaPlayer.zip
+FoliaPlayer.tar.gz
+build/
+output/

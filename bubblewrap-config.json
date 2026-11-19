@@ -1,0 +1,31 @@
+{
+  "applicationId": "com.adi.player",
+  "displayName": "AdiPlayer",
+  "shortName": "Adi",
+  "startUrl": "https://YOUR-APP-DOMAIN.up.railway.app/",
+  "webManifestUrl": "https://YOUR-APP-DOMAIN.up.railway.app/manifest.json",
+  "assetsStatics": {
+    "host": "https://YOUR-APP-DOMAIN.up.railway.app"
+  },
+  "trustedWebActivityIcon": "https://YOUR-APP-DOMAIN.up.railway.app/icon-512.png",
+  "additionalTrustedWebActivityIcons": [],
+  "faviconUrl": "https://YOUR-APP-DOMAIN.up.railway.app/icon-192.png",
+  "themeColor": "#0f0f14",
+  "themeColorDark": "#0a0a0f",
+  "navigationColor": "#0f0f14",
+  "navigationColorDark": "#0a0a0f",
+  "navigationDividerColor": "#22222a",
+  "navigationDividerColorDark": "#18181f",
+  "backgroundColor": "#0f0f14",
+  "enableNotifications": false,
+  "enableSiteSettingsShortcut": false,
+  "chromeosSupport": {
+    "enabled": false
+  },
+  "features": {
+    "playBilling": false
+  },
+  "distribution": {
+    "target": "system"
+  }
+}
